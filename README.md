@@ -2,7 +2,7 @@
 
 ## EDUCATION:- 
 
-### ** MSc Big Data Science **, Queen Mary University of London, 2021-2022
+### **MSc Big Data Science**, Queen Mary University of London, 2021-2022
 
 **Key Modules:**
 
