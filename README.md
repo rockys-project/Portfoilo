@@ -4,7 +4,7 @@
 
 ### **MSc Big Data Science**, Queen Mary University of London, 2021-2022
 
--Key Modules:
+**Key Modules:**
 
 Applied Statistics(ECS764P):
 
@@ -58,7 +58,7 @@ Big Data Processing (ECS765P):
 
 ### **BTech Computer Science**, S.R.M Institute of Science and Technology, 2016-2020
 
--Key Modules:
+**Key Modules:**
 
 Data Mining & Analytics (15CS331E):
 - Explored various data mining techniques, including clustering, classification, and association rule mining.
