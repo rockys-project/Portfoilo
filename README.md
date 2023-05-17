@@ -4,7 +4,7 @@
 
 **MSc Big Data Science**, Queen Mary University of London, 2021-2022
 
-	### Key Modules:
+	- Key Modules:
 	* **Applied Statistics (ECS764P):** Developed expertise in statistical inference and hypothesis testing, and learned to use statistical tools such as regression analysis and ANOVA to analyze data.
 	* **Data Mining (ECS766P):** Learned to apply machine learning algorithms such as decision trees, random forests, and clustering to analyze large datasets.
 	* **Principles of Machine Learning (ECS7020P):** Gained a solid understanding of the principles and applications of machine learning algorithms, including supervised and unsupervised learning.
