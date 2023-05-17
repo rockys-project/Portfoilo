@@ -95,12 +95,12 @@ Python Programming (15IT322E):
 
 ### **Big Data Analytics and Mining for Effective Visualization and Trends Forecasting of Crime Data**, April 2020
 
--Conducted an in-depth analysis of crime data using state-of-the-art big data analytics and visualization techniques.
--Utilized K-means, k-NN, and linear regression algorithms to identify crime patterns and trends.
--Developed a decision tree and random forest models to predict crime trends.
--Understood the factors contributing to high crime rates in the city of Chicago.
--Provided insights and recommendations for to improve decision-making and crime prevention strategies.
--Analyzed and predicted business risk levels in Boston by correlating crime records and area details.
+- Conducted an in-depth analysis of crime data using state-of-the-art big data analytics and visualization techniques.
+- Utilized K-means, k-NN, and linear regression algorithms to identify crime patterns and trends.
+- Developed a decision tree and random forest models to predict crime trends.
+- Understood the factors contributing to high crime rates in the city of Chicago.
+- Provided insights and recommendations for to improve decision-making and crime prevention strategies.
+- Analyzed and predicted business risk levels in Boston by correlating crime records and area details.
 
 ## CERTIFICATION:- 
 	
